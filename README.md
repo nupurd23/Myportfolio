@@ -125,7 +125,7 @@
         </div>
     </div>
     <div class="freelance">
-        <p id="freelancecontent">I'm available for freelance</p>
+        <p id="freelancecontent">Please contact for queries</p>
         <button  id="freelancebtn" type="button">CONTACT ME</button>
     </div>
     <div class="contactme">
