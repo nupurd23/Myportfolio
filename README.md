@@ -6,7 +6,10 @@
 ## HTML Code Used
 
 * Here is the frontpage view of my website
- <img src="./frontpage.png" alt="frontpageview" style="float:left;margin-right:10px"/>
+ <!-- <img src="./frontpage.png" alt="frontpageview" style="float:left;margin-right:10px"/> -->
+ <img src="./frontpage.png"
+     alt="VSC code screensot"
+     style="float: left; margin-right: 10px;" />
 
 * Here's my html code for website
 
